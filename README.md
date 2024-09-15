@@ -23,10 +23,10 @@
 <!-- Connect with Me -->
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-ali-ghazy-034393329" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-ali-ghazy-034393329" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100043781361599" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100043781361599" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/ahmed_3li_ghazy" target="_blank">
@@ -37,25 +37,25 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
