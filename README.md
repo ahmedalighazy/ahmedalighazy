@@ -4,7 +4,7 @@
 
 <!-- Main Image -->
 <p align="center">
-  <img alt="coding" width="600" src="https://github.com/Mina-Zarif/Mina-Zarif/blob/main/assets/cover_image.gif">
+  <img alt="coding" width="600" src="https://media.licdn.com/dms/image/v2/C4D12AQGOb99Boc8ZFg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626074730409?e=2147483647&v=beta&t=ZCjslsyC-6rIO9yq-_4jzP4BcCYbX8AHpzNphNqJf_0">
 </p>
 
 <!-- Profile Views -->
@@ -37,9 +37,6 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
